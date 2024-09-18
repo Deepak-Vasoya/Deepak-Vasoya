@@ -17,7 +17,6 @@
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/deepak-vasoya/)
-- [Twitter](https://twitter.com/Deepak_Vasoya)
 
 ## 😄 Pronouns:
 - He/Him
