@@ -2,18 +2,21 @@
 
 ## 👀 I’m interested in:
 - Full-stack development
+- Web Development
+- Cloud technologies
+- API integrations
 - Augmented Reality (AR) and Virtual Reality (VR)
-- Cloud technologies and API integrations
+
 
 ## 🌱 I’m currently learning:
 - Advanced cloud solutions
-- Latest updates in .NET and React frameworks
+- Latest updates in .NET, React and Angular
 - Exploring new AI and machine learning techniques
 
 ## 💞️ I’m looking to collaborate on:
-- Innovative tech projects involving AR/VR
 - Open-source projects focused on enhancing web applications
 - Developing efficient, scalable APIs and backend solutions
+- Innovative tech projects involving AR/VR
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/deepak-vasoya/)
